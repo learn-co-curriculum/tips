@@ -19,6 +19,6 @@ Print the output of n
 
 ```ruby
 def fibonacci(n)
-
+  puts "HELLO from fib"
 end
 ```
