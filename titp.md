@@ -45,38 +45,3 @@ Sites that may have good material to pull from:
 https://www.codewars.com/
 
 https://coderbyte.com/
-
-Meeting notes
-01/26/2017
-
-Earlier exposure to certain CS items (sorting algorithms, recursion, big O,)
-
-* OK to challenge students with (some) material they haven’t seen yet -- mimics code challenger reality: challengee may be exposed to material he/she hasn’t seen and has to google fast!
-* Mornings are good (evenings students are tired and lunch they want to, well, go to lunch)
-* We still want to incorporate grads, though…
-* Discussion Qs don’t always get the attention from students they need, so it could be a good time to include these types of individual challenges.
-  |-> Maybe once or twice ? a week there is an individual “tech interview challenge” that replaces group discussion questions, and is ‘graded’ or maybe has a test suite, and students who don’t get it in the time (30 min?) must go back and refactor, and instructors keep a spreadsheet of results…
-  |-> Then review the answer as a class ? or grade ?
-  Do we want to go inter-mod, or just keep students in their own?
-  In the case of inter-mod, then we could have students ‘give’ other students the challenge… ← maybe we should start intra-mod and see how it goes before we go intermod...
-  Remember that part of the point is actually to create the stressful environment since that is a major aspect of what we are trying to work on here
-
-Action Items: Come up with a challenge
-
-Laura - Mod 1
-Matt - Mod 2
-Prince - Mod 3
-Howard - Mod 4/5
-
-Meeting notes
-Thursday, 02/01/2017
-
-Action items:
-
-Try other person’s challenge Matt<>Laura, Prince<>Howard:
-Keep track of/take notes/feedback for :
--Time (~20 min)
--Review
--Appropriateness of material, considering we are aiming to deploy these on the first Friday of each mod
-
-Everyone please think about what the class review/grading/etc looks like.
