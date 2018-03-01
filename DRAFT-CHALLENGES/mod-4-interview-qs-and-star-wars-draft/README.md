@@ -17,19 +17,27 @@ Please complete the 3 instructions below. You have (20) min.
    })();
    ```
 
-2. Describe two ways you can fix the following greet method to output correctly:
-
    ```js
-   const person = {
-     firstName: "bob",
-     greet: function() {
-       return function reallyGreet() {
-         return `Hi, I'm ${this.firstName}`;
-       };
-     }
-   };
-   person.greet()();
-   // Hi, I'm undefined
+   // Your answer here:
    ```
 
-3. Create a StarWarsCharacter class using ES6 syntax. Characters should have name, species, and home world. Have a quick look at the Star Wars API (https://swapi.co/). Use fetch requests and the SW API to create 3 StarWarsCharacter objects and display their data in the div with id 'star-wars' (you can just grab the first three people if you like). You may display the data in any html format you wish. Put all code in the star_wars.js file.
+2) Describe two ways you can fix the following greet method to output correctly:
+
+```js
+const person = {
+  firstName: "bob",
+  greet: function() {
+    return function reallyGreet() {
+      return `Hi, I'm ${this.firstName}`;
+    };
+  }
+};
+person.greet()();
+// Hi, I'm undefined
+```
+
+```js
+// Your answer here:
+```
+
+3. Create a Book class using ES6 syntax. Books should have title, author, and category. Have a quick look at the Google Books API (https://developers.google.com/books/docs/v1/using). Use `fetch` to get data from the API, and use the response to create 5 Book objects and display their data in the div with id 'books' (you can use whatever topic query you like). You may display the data in any html format you wish. Put all code in the books.js file.
