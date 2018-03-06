@@ -17,6 +17,9 @@ What would the output for the following strings be?
 * palindrome?("radar")
 * palindrome?("learnlovecode")
 
+### Bonus
+Try rewriting the palindrome? method as a recursive method without using any built-in Ruby methods. 
+
 
 // Solution:
 
