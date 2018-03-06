@@ -1,13 +1,13 @@
-Proposal for Student and Graduate Technical Interview Training
+## Proposal for Student and Graduate Technical Interview Training
 
-Problem: Students currently graduate from Flatiron School without any substantial amount of technical interview training. Students who experience some degree of test anxiety especially struggle in this area, and their length of time job searching is longer. Some of these students also tend to struggle with code challenges while still in the program, regardless of technical ability. We currently offer only one outsourced practice technical interview after graduation.
+Problem: Students graduate from Flatiron School without any substantial amount of technical interview training. Students who experience some degree of test anxiety especially struggle in this area, and their job search process becomes longer. Some of these students also tend to struggle with code challenges while still in the program, regardless of technical ability. We currently offer only one outsourced practice technical interview after graduation.
 
-Proposed Solution:
+### Proposed Solution:
 Develop in-house programming to allow students to practice for technical interviews and code challenges.
 
-Four Potential Options for Implementation:
+### Four Potential Options for Implementation:
 
-Run an evening class: (could implement with existing staff/resources) This practice session would be run once per week on an ongoing basis at 6:15pm, and would be open to all current students as well as graduates. The training could be run by either a lead instructor or current TCF (or a member of the engineering team, if interested), as is Flatiron School Presents. Whoever stays late to run the technical interview practice could arrive late that day (or the following day) to balance their hours working. A third of the alloted time could be devoted to a timed code challenge, a third spent on live coding or whiteboarding practice, with the remaining third left for group discussion about the experience and helpful tips from the instructor.
+Run an evening class: (could be implemented with existing staff/resources) This practice session would be run once per week on an ongoing basis at 6:15 PM, and would be open to all current students as well as graduates. The training could be run by either a lead instructor or current TCF (or a member of the engineering team, if interested). Whoever stays late to run the technical interview practice could arrive late that day (or the following day) to balance their work hours. A third of the allotted time could be devoted to a timed code challenge, a third spent on live coding or white boarding practice, and the remaining third left for group discussion about the experience and helpful tips from the instructor.
 
 Replace module 5 concentrations with technical interview training: (could implement with existing staff/resources) Technical interview practice could be implemented for an hour to an hour and a half daily in the last two weeks of module 5. We could experiment with doing this in place of “concentrations,” as technical interview training addresses a more immediately needed skill than, for example, learning app performance / run time optimization.
 
