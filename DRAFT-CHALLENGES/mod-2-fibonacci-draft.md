@@ -21,6 +21,6 @@ end
 How could we refactor your solution to use recursion?
 
 ```def fibonacci( n )
-      return  n  if n <= 1 
-     fibonacci( n - 1 ) + fibonacci( n - 2 )
-   end ```
+  return  n  if n <= 1 
+  fibonacci( n - 1 ) + fibonacci( n - 2 )
+end```
