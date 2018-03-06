@@ -8,14 +8,14 @@ Write out the method `palindrome?()` that takes in a string as an argument and d
 
 ### Example
 
-* palindrome?("racecar") gives a boolean output of **true** because "racecar" is a palindrome.
-* palindrome?("flatiron") gives a boolean output of **false** because "flatiron" is not a palindrome.
+* `palindrome?("racecar")` gives a boolean output of **true** because "racecar" is a palindrome.
+* `palindrome?("flatiron")` gives a boolean output of **false** because "flatiron" is not a palindrome.
 
 What would the output for the following strings be?
-* palindrome?("noon")
-* palindrome?("five")
-* palindrome?("radar")
-* palindrome?("learnlovecode")
+* `palindrome?("noon")`
+* `palindrome?("five")`
+* `palindrome?("radar")`
+* `palindrome?("learnlovecode")`
 
 ### Bonus
-Try rewriting the palindrome? method as a recursive method without using any built-in Ruby methods. 
+Try rewriting the `palindrome?` method as a recursive method without using any built-in Ruby methods. 
