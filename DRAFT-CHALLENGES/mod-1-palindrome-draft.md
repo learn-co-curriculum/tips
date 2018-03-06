@@ -19,20 +19,3 @@ What would the output for the following strings be?
 
 ### Bonus
 Try rewriting the palindrome? method as a recursive method without using any built-in Ruby methods. 
-
-
-// Solution:
-
-```ruby
-def palindrome?(string)
-  if string.length == 1 || string.length == 0
-    true
-  else
-    if string[0] == string[-1]
-      palindrome?(string[1..-2])
-    else
-      false
-    end
-  end
-end
-```
