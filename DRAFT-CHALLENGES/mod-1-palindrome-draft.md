@@ -4,7 +4,7 @@
 A palindrome is a word, phrase, or sequence that reads the same backwards and forwards.
 
 ### Problem Statement
-Write out the method palindrome?() that takes in a string as an argument and determines whether that string is a palindrome.
+Write out the method `palindrome?()` that takes in a string as an argument and determines whether that string is a palindrome.
 
 ### Example
 
