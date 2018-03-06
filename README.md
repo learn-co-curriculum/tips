@@ -10,6 +10,12 @@ The Technical Interview Training Proposal (`titp.md` in this repo) was put toget
 
 On the second Monday of each module, TCFs administer a TIPS session. TIPS sessions will run very similarly to mini code challenges. They will be timed for twenty minutes, with a "pencils down" call at the end, and students submitting PRs. ? One major difference is that TCFs will immediately run a review session to go over the solution. Ideally, the whole process takes thirty minutes. Realistically, an hour block should be more than enough to cover it start to finish.
 
+## Solution
+
+There is a solution branch to post solutions to challenges. Please submit solutions to this branch. Solutions should include any code, as well as easy-to-follow guidelines for leading the review session. In other words, a TCF should be able to read through the solution and be able to easily lead a review/solution session. Solution code and review guideline files should be labeled with `-solution` and `-review`, respectively.
+
+For solutions, please make a new local branch from the solution branch, commit to that branch, and make a PR to the solution branch. This will help us keep a clean git history.
+
 ## Contributing
 
 Far from a final solution, this is a living idea, and a living document. Thoughtful contributions, suggestions, changes, additions, and new ideas are always welcome!
