@@ -1,6 +1,4 @@
-## Technical Interview Practice for Students
-
-## aka TIPS
+## Technical Interview Practice for Students aka TIPS
 
 ## Purpose
 
@@ -14,7 +12,7 @@ On the second Monday of each module, TCFs will administer a TIPS session during 
 
 There is a solution branch to post solutions to challenges. Please submit solutions to this branch. Solutions should include any code, as well as easy-to-follow guidelines for leading the review session. In other words, a TCF should be able to read through the solution and be able to easily lead a review/solution session. Solution code and review guideline files should be labeled with `-solution` and `-review`, respectively.
 
-For solutions, please make a new local branch from the solution branch, commit to that branch, and make a PR to the solution branch. This will help us keep a clean git history.
+For solutions, please make a new local branch from the solution branch, commit to that branch, and make a PR _to the solution branch._ This will help us keep a clean git history.
 
 ## Contributing
 
