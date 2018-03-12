@@ -1,15 +1,15 @@
 # Fibonacci Challenge
 
-###Introduction
+### Introduction
 The Fibonacci Sequence is the series of numbers:
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
 The next number is found by adding up the two numbers before it.
 Example: the next number in the sequence above is 21+34 = 55
 
-###The Problem Statement
+### The Problem Statement
 We want to write a function that takes n as an argument and prints the nth Fibonacci number in the sequence.
 
-###Example
+### Example
 Here are some example inputs and their expected return values:
 
 If n = 1, output should be 1
@@ -22,5 +22,5 @@ def fibonacci(n)
 end
 ```
 
-###Bonus
+### Bonus
 How could we refactor your solution to use recursion?
