@@ -6,13 +6,15 @@ The Technical Interview Training Proposal (`titp.md` in this repo) was put toget
 
 ## Implementation
 
-On the second Monday of modules 1 through 4, TCFs administer a TIPS session. TIPS sessions will run very similarly to mini code challenges. They will be timed for twenty minutes, with a "pencils down" call at the end, and students submitting PRs. ?? One major difference is that TCFs will immediately run a review session to go over the solution. (We have discussed different possible ways to grade this -- and for now we're settling on students looking over their own work during the review -- open to ideas here). Ideally, the whole process takes thirty minutes. Realistically, an hour block should be more than enough to cover it start to finish.
+On the second Monday of modules 1 through 4, TCFs administer a TIPS session, or a single TIPP (Technical Interview Practice Problem). TIPS sessions will run very similarly to mini code challenges. They will be timed for twenty minutes, with a "pencils down" call at the end. One major difference between TIPS and a module code challenge is that TCFs will immediately run a review session to go over the solution. (We have discussed different possible ways to grade this -- and for now we're settling on students looking over their own work during the review -- open to ideas here). Ideally, the whole process takes thirty minutes. Realistically, an hour block should be more than enough to cover it start to finish.
 
 ## Contributing
 
 Far from a final solution, this is a living idea, and a living document. Thoughtful contributions, suggestions, changes, additions, and new ideas are always welcome!
 
-Please put draft TIPP into the drafts folder, and label each one with an identifier and the corresponding module, e. g. `mod-1-palindrome-draft`. Once finalized, they will move to the corresponding mod folder.
+Please put draft TIPPs into the drafts folder, and label each one with an identifier and the corresponding module, e. g. `mod-1-palindrome-draft`. Once finalized, they will move to the corresponding mod folder.
+
+### Solution Branch
 
 There is a solution branch to post solutions to challenges. Please submit solutions to this branch. Solutions should include any code, as well as easy-to-follow guidelines for leading the review session. In other words, a TCF should be able to read through the solution and be able to easily lead a review/solution session. Solution code and review guideline files should be labeled with `-solution` and `-review`, respectively.
 For solutions, please make a new local branch from the solution branch, commit to that branch, and make a PR _to the solution branch._ This will help us keep a clean git history.
