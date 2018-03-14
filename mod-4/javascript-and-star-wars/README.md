@@ -1,4 +1,4 @@
-Sample mod 4 code challenge
+# JavaScript + Star Wars
 
 Please complete the 3 instructions below. You have (20) min.
 
