@@ -25,16 +25,16 @@ We will see 1, 4, 3, 2.  Each time a setTimeout is encountered, it will be passe
 2) Briefly identify why the greet method is not outputting the person's name. Describe at least one way you can fix it to output correctly:
 
 ```js
-   const person = {
-     name: "Barbara",
-     greet: function() {
-       return function reallyGreet() {
-         return `Hi, I'm ${this.name}`;
-       };
-     }
-   };
-   person.greet()();
-   // => Hi, I'm undefined
+const person = {
+  name: "Barbara",
+  greet: function() {
+    return function reallyGreet() {
+      return `Hi, I'm ${this.name}`;
+    };
+  }
+};
+person.greet()();
+// => Hi, I'm undefined
 ```
 
 ```js
