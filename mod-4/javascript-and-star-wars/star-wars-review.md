@@ -17,10 +17,9 @@ Please complete the 3 instructions below. You have (20) min.
    })();
    ```
 
-   ```js
-   // Your answer here:
+Your answer here:
 We will see 1, 4, 3, 2.  Each time a setTimeout is encountered, it will be passed by until the current execution block (in this case, the anonymous function) is finished.  Therefore, 1 and 4 are logged first.  Then, the timeout functions will execute in the order that they resolve, and since 3 was given 0 milliseconds, and 2 got 1000 milliseconds, we see 3 first and finally 2.
-   ```
+
 
 2) Briefly identify why the greet method is not outputting the person's name. Describe at least one way you can fix it to output correctly:
 
