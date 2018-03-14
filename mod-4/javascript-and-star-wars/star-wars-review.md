@@ -36,7 +36,6 @@ We will see 1, 4, 3, 2.  Each time a setTimeout is encountered, it will be passe
    person.greet()();
    // => Hi, I'm undefined
 ```
-```
 
 ```js
 // Your answer here:
