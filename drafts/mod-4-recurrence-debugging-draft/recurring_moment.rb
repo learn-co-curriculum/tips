@@ -2,7 +2,7 @@ require 'active_support'
 require 'active_support/core_ext'
 
 class RecurringMoment
-  def initialize(start, interval, period)
+  def initialize(start:, interval:, period:)
     @start = start
     @interval = interval
     @period = period
@@ -21,7 +21,7 @@ class RecurringMoment
       elsif @period = 'weekly'
         current = current.advance(months: @interval)
       elsif @period == 'daily'
-        current = current.next_day(days: @interval)
+        current = current.advance(days: @interval)
       end
     end
 
