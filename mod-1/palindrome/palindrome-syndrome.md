@@ -18,4 +18,7 @@ What would the output for the following strings be?
 * `palindrome?("learnlovecode")`
 
 ### Bonus
+Try writing the 'palindrome?' method using string indexes (eg. string = "Flatiron", string[0] = "F")
+
+### SuperBonus
 Try rewriting the `palindrome?` method as a recursive method without using any built-in Ruby methods. 
