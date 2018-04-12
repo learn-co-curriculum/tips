@@ -7,7 +7,7 @@ The next number is found by adding up the two numbers before it.
 Example: the next number in the sequence above is 21+34 = 55
 
 ### The Problem Statement
-We want to write a function that takes n as an argument and prints the nth Fibonacci number in the sequence.
+We want to write a function that takes n as an argument and prints the nth Fibonacci number in the sequence.  For the purposes of this problem, 0 is the 0th number in the sequence.
 
 ### Example
 Here are some example inputs and their expected return values:
