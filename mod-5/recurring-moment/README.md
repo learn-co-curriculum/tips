@@ -2,7 +2,7 @@
 
 ## Introduction
 
-There `recurring_moment.rb` has a broken implementation of `RecurringMoment`. There is a correct suite of RSpec tests for the class. Fix the module so that the tests pass!
+In `recurring_moment.rb` there is a broken implementation of `RecurringMoment`. There is a correct suite of RSpec tests for the class. Fix the code so that the tests pass!
 
 ## Getting Started
 
@@ -15,4 +15,4 @@ Go ahead and edit the code in `recurring_moment.rb` to make the module work!
 ## Bonus
 
 * What's the runtime of the `match` function?
-* How could you improve this method?
+* How could you improve this method? How could you improve the class?
