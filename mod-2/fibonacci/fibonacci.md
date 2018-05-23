@@ -1,5 +1,5 @@
 # Fibonacci Challenge
-
+  
 ### Introduction
 The Fibonacci Sequence is the series of numbers:
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
@@ -12,9 +12,9 @@ We want to write a function that takes n as an argument and prints the nth Fibon
 ### Example
 Here are some example inputs and their expected return values:
 
-If n = 1, output should be 1
-If n = 2, output should be 1
-If n > 2, output should be sum of the previous two values
+- If n = 1, output should be 1
+- If n = 2, output should be 1
+- If n > 2, output should be sum of the previous two values
 
 ```ruby
 def fibonacci(n)
