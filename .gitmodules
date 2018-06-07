@@ -1,0 +1,3 @@
+[submodule "mod-1/tips-mod-1-ruby-palindrome"]
+	path = mod-1/tips-mod-1-ruby-palindrome
+	url = git@github.com:learn-co-curriculum/tips-mod-1-ruby-palindrome.git
