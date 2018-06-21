@@ -1,1 +1,3 @@
-Please place only finalized versions of Module Two technical challenges in this folder.
+# TIPS Repo Links Mod 2 (Ruby)
+
+- [Fibonacci Algorithm](https://github.com/learn-co-curriculum/tips-mod-2-ruby-fibonacci/tree/master)

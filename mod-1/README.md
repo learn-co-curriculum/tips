@@ -1,1 +1,3 @@
-Please place only finalized versions of Module One technical challenges in this folder.
+# TIPS Repo Links Mod 1 (Ruby)
+
+- [Palindrome Syndrome](https://github.com/learn-co-curriculum/tips-mod-1-ruby-palindrome/tree/master)
