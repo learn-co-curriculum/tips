@@ -1,12 +1,12 @@
 #Iterative Solution
 def fib(n)
   fibo = [0, 1, 1]
-  return fib[n] if n < 3
+  return fibo[n] if n < 3
   for num in (3..n)
-    fib[num] = fib[num-1] + fib[num-2]
-    puts "fib[#{num}] is #{fib[num]}"
+    fibo[num] = fibo[num-1] + fibo[num-2]
+    puts "fibo[#{num}] is #{fibo[num]}"
   end
-  return fib[n]
+  return fibo[n]
 end
 
 # Dynamic Programming Solution (Refactor of iterative solution)
