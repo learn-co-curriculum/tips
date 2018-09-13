@@ -1,5 +1,7 @@
 # Recurring Moment Debugging Challenge
 
+https://github.com/learn-co-curriculum/tips-mod-5-ruby-tests
+
 ## Introduction
 
 In `recurring_moment.rb` there is a broken implementation of `RecurringMoment`. There is a correct suite of RSpec tests for the class. Fix the code so that the tests pass!
