@@ -1,6 +1,6 @@
 # Spreadsheet Savior (Review)
 
-This is a review outline for [mod-3-checksum](#) (currently dead link)
+This is a review outline for [mod-3-checksum](https://github.com/learn-co-curriculum/tips-mod-3-js-checksum)
 
 ### Guidelines for Review
 - Explain how to break down a big problem into smaller problems
